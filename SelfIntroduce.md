@@ -77,7 +77,7 @@ Improve engineering team.**
 ---
 ## 1.2 Why TX
 
-- So international
+- Very international
 
 - I like to create something.
  Especially, complexity things for example car and Robot.
@@ -99,7 +99,7 @@ Improve engineering team.**
 
 **I guess that UI/UX improvements doesn't need only self view but also many views**
 
-So, if you have some feedbacks about cockpit UI/UX.
+So, if you have some feedbacks about cockpit UI/UX,
 Please let me know it.
 
 
