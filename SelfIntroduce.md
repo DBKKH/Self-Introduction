@@ -6,56 +6,30 @@ theme: gaia
 <!-- page_number: true -->
 <!-- paginate: true -->
 
-# Marp for VS Code スライドサンプル
+# Contents
 
-***@gonkunkun***
-
---- 
-
-## Contents
-
-1. about myself
-2. what am I doing at TX?
-3. others
+1. About myself
+2. What am I doing at TX?
+3. Others
 
 ---
 
-## about myself
+## About myself
 
-- from where 
-- how old
+- Japanese
+- from Tochigi-ken 
+- 27 years old
 - work history
+  - Toyota 
+  develop, implement and improve degital vheicle prototype with XR
+  - Synamon
+  
+  - here
 
 ---
 
-## 2. 使い方
+## 2.  背景画像
 
-1. リスト
-2. 背景画像
-
----
-
-## 2.1 リスト
-
-- One
-- Two
-- Three
+![bg right](https://www.360navi.com/blog/files/20080421193342.png)
 
 ---
-
-## 2.2 背景画像
-
-![bg right](https://picsum.photos/720?image=29)
-
----
-
-## 3. ユースケース
-
-- ほげほげ
-
-
----
-## 4. Resources
-
-- Link : https://qiita.com/gogogonkun/items/b90c5ef3ca4710211c76
-
