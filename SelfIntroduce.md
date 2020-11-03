@@ -53,7 +53,7 @@ _color: white
 
 ### -In Toyota-
 
-**develop and improve degital vehicle prototypings with XR
+**Develop, improve and promote digital vehicle prototypings with XR
 (with Unreal Engine, Unity, Matlab and so on)**
 
 ![bg brightness:0.6](https://cdn2.unrealengine.com/Unreal+Engine%2Fspotlights%2Ftoyota-evaluates-vehicle-ergonomics-using-vr-and-unreal-engine%2FSpotlight_Toyota_Share_Image-1200x630-ac8d9fe84908652c1801310f30662371ffc83bb9.jpg)
@@ -67,8 +67,8 @@ _color: white
 
 **VR SaaS Company**
 
-**develop VR Coraboration Service with Unity.
-improve engineering team.**
+**Develop VR Collaboration Service with Unity.
+Improve engineering team.**
 
 
 ![bg](https://innouvators.com/assets/article/2020/02/l/00ec5a53bc.jpg)
@@ -77,12 +77,12 @@ improve engineering team.**
 ---
 ## 1.2 Why TX
 
-- I love to develop something.
- Especially, car and other Robot developments.
+- So international
+
+- I like to create something.
+ Especially, complexity things for example car and Robot.
 
 - I wanna get involved Robot Development.
-
-- So international
 
 - TX's Goal is only one in the world.
 
@@ -142,7 +142,7 @@ I still have something I don't know yet.
 <span style="font-size: 30px;">
 
  If there are any strange English
- Please let me know.
+ Please let me know..
 
 </span>
 <div>
