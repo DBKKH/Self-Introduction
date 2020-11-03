@@ -14,6 +14,15 @@ theme: gaia
 2. What am I doing at TX?
 3. Others
 
+
+<div style="text-align:right">
+<span style="font-size: 30px;">
+
+This is maybe two minutes.
+
+</span>
+<div>
+
 ---
 
 ## 1. About myself
@@ -25,8 +34,7 @@ theme: gaia
 - From Tochigi-ken
   there is Nikkou-Toushougu(日光東照宮)
 
-- My favorites food are 
-Sushi, Sashimi and Syabusyabu.
+- My hated food is nothing **yet**.
 
 - My car is RX-8 (Do you know RotaryEngine?)
 
@@ -59,8 +67,8 @@ _color: white
 
 **VR SaaS Company**
 
-**develop VR Coraboration Service with Unity, 
-improve engineering team**
+**develop VR Coraboration Service with Unity.
+improve engineering team.**
 
 
 ![bg](https://innouvators.com/assets/article/2020/02/l/00ec5a53bc.jpg)
@@ -70,9 +78,11 @@ improve engineering team**
 ## 1.2 Why TX
 
 - I love to develop something.
- Especially, car and other Hardware developments.
+ Especially, car and other Robot developments.
 
 - I wanna get involved Robot Development.
+
+- So international
 
 - TX's Goal is only one in the world.
 
@@ -120,6 +130,20 @@ Especially, Genki-san, Jake, Wilson, Mathilde and Pablo.
 
 I still have something I don't know yet.
 
-So I'm looking forward to working with you.
+**I'm looking forward to working with everyone.**
 
 <div>
+
+<br>
+
+<br>
+
+<div style="text-align:right">
+<span style="font-size: 30px;">
+
+ If there are any strange English
+ Please let me know.
+
+</span>
+<div>
+
